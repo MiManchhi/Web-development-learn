@@ -67,15 +67,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Day Light %28cover：贵族乐团%29 - 恶魔城西.mp3" />
-    <Content Include="《原神·提瓦特篇》主线章节预告PV-「足迹」 - 1.主线章节预告PV-「足迹」%28Av627167023,P1%29.mp4" />
-    <Content Include="第一天学习实例.html" />
-    <Content Include="超链接.html" />
-    <Content Include="风景.jpg" />
-    <Content Include="图片2.jpg" />
-    <Content Include="图片1.png" />
-    <Content Include="标签.html" />
+    <Content Include="第一天\Day Light %28cover：贵族乐团%29 - 恶魔城西.mp3" />
+    <Content Include="第一天\《原神·提瓦特篇》主线章节预告PV-「足迹」 - 1.主线章节预告PV-「足迹」%28Av627167023,P1%29.mp4" />
+    <Content Include="第二天\列表.html" />
+    <Content Include="第一天\第一天学习实例.html" />
+    <Content Include="第二天\反馈.html" />
+    <Content Include="第二天\第二天综合案例.html" />
+    <Content Include="第二天\表单.html" />
+    <Content Include="第二天\表格.html" />
+    <Content Include="第一天\超链接.html" />
+    <Content Include="第一天\风景.jpg" />
+    <Content Include="第一天\图片2.jpg" />
+    <Content Include="第一天\图片1.png" />
+    <Content Include="第一天\标签.html" />
     <Content Include="Web.config" />
+    <Content Include="第二天\角色攻略.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
