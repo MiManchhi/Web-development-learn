@@ -69,6 +69,10 @@
   <ItemGroup>
     <Content Include="第一天\Day Light %28cover：贵族乐团%29 - 恶魔城西.mp3" />
     <Content Include="第一天\《原神·提瓦特篇》主线章节预告PV-「足迹」 - 1.主线章节预告PV-「足迹」%28Av627167023,P1%29.mp4" />
+    <Content Include="第三天\原神背景.png" />
+    <Content Include="第三天\CSS.css" />
+    <Content Include="第三天\初识CSS.html" />
+    <Content Include="第三天\第三天综合案例.html" />
     <Content Include="第二天\列表.html" />
     <Content Include="第一天\第一天学习实例.html" />
     <Content Include="第二天\反馈.html" />
