@@ -67,6 +67,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="图片及视频资源\旅行者.png" />
+    <Content Include="图片及视频资源\神里绫华.png" />
+    <Content Include="图片及视频资源\胡桃.png" />
+    <Content Include="图片及视频资源\钟离.png" />
+    <Content Include="图片及视频资源\雷电将军.png" />
+    <Content Include="图片及视频资源\魈.png" />
     <Content Include="第一天\Day Light %28cover：贵族乐团%29 - 恶魔城西.mp3" />
     <Content Include="第一天\《原神·提瓦特篇》主线章节预告PV-「足迹」 - 1.主线章节预告PV-「足迹」%28Av627167023,P1%29.mp4" />
     <Content Include="第三天\原神背景.png" />
@@ -86,6 +92,10 @@
     <Content Include="第一天\标签.html" />
     <Content Include="Web.config" />
     <Content Include="第二天\角色攻略.html" />
+    <Content Include="第四天\伪类选择器.html" />
+    <Content Include="第四天\原神背景.png" />
+    <Content Include="第四天\显示模式.html" />
+    <Content Include="第四天\第四天综合案例.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -99,6 +109,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
