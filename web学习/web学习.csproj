@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="index.html" />
     <Content Include="图片及视频资源\旅行者.png" />
     <Content Include="图片及视频资源\神里绫华.png" />
     <Content Include="图片及视频资源\胡桃.png" />
