@@ -67,6 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="图片及视频资源\原神logo.png" />
+    <Content Include="图片及视频资源\原神背景视频.mp4" />
     <Content Include="图片及视频资源\旅行者.png" />
     <Content Include="图片及视频资源\神里绫华.png" />
     <Content Include="图片及视频资源\胡桃.png" />
@@ -92,7 +94,10 @@
     <Content Include="第一天\标签.html" />
     <Content Include="Web.config" />
     <Content Include="第二天\角色攻略.html" />
+    <Content Include="第五天\新闻.html" />
+    <Content Include="第五天\盒子模型.html" />
     <Content Include="第五天\结构伪类选择器.html" />
+    <Content Include="第五天\综合案例.html" />
     <Content Include="第四天\伪类选择器.html" />
     <Content Include="第四天\原神背景.png" />
     <Content Include="第四天\显示模式.html" />
