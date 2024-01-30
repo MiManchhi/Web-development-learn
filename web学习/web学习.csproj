@@ -72,6 +72,7 @@
     <Content Include="图片及视频资源\旅行者.png" />
     <Content Include="图片及视频资源\神里绫华.png" />
     <Content Include="图片及视频资源\胡桃.png" />
+    <Content Include="图片及视频资源\进入.png" />
     <Content Include="图片及视频资源\钟离.png" />
     <Content Include="图片及视频资源\雷电将军.png" />
     <Content Include="图片及视频资源\魈.png" />
@@ -98,6 +99,7 @@
     <Content Include="第五天\盒子模型.html" />
     <Content Include="第五天\结构伪类选择器.html" />
     <Content Include="第五天\综合案例.html" />
+    <Content Include="第六天\flex.html" />
     <Content Include="第六天\浮动.html" />
     <Content Include="第四天\伪类选择器.html" />
     <Content Include="第四天\原神背景.png" />
